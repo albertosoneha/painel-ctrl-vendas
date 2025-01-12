@@ -21,7 +21,7 @@ export default function Sales() {
     <CardContent>
         <article className="flex items-center gap-2 border-b py-2">
             <Avatar className="w-8 h-8">
-                <AvatarImage src="https://github.com/robedev.png"/>
+                <AvatarImage src="https://github.com/albertosoneha/robedev.png"/>
                 <AvatarFallback>AM</AvatarFallback>
             </Avatar>
             <div>
