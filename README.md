@@ -1,2 +1,2 @@
 # panel-controlo-de-vendas
- Painel de controlo de vendas com nexjs & shadcn ui
+ Painel de controlo de vendas com nextjs & shadcn ui
